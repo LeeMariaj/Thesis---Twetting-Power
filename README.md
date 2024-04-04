@@ -1,1 +1,1 @@
-# Thesis - the-Proof-is-in-the-Tweets
+# Thesis - The Proof is in the Tweets

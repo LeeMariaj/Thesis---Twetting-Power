@@ -1,5 +1,5 @@
 # Thesis - Tweeting Power:
-Analyzing sentiment and rhetoric by Colombian Congressional Members
+## Analyzing sentiment and rhetoric by Colombian Congressional Members
 
 Author: María José Lee
 
